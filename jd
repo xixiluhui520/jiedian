@@ -1,1 +1,7 @@
-
+proxies:
+  - {name: 🇭🇰 香港2 | ⬇️ 6.4MB/s, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 15003, type: ss, cipher: aes-256-gcm, password: 4KGHWKCKQAJOVPHO}
+  - {name: 🇭🇰 香港3 | ⬇️ 5.5MB/s, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 0S43J3FD6L7IEKGQ}
+  - {name: 🇭🇰 香港4 | ⬇️ 10.9MB/s, server: 36.156.102.115, port: 34041, type: trojan, password: RlzoEILU, sni: cdn.egvra.cn, skip-cert-verify: true}
+  - {name: 🇭🇰 香港5 | ⬇️ 6.0MB/s, server: okanc.node-is.green, port: 21115, type: ss, cipher: aes-256-gcm, password: 9acfc574-acc3-4c2b-ab3b-491d43a6eb83}
+  - {name: 🇭🇰 香港6 | ⬇️ 5.0MB/s, server: 36.151.251.60, port: 28296, type: trojan, password: RlzoEILU, sni: cdn.egvra.cn, skip-cert-verify: true}
+  - {name: 🇺🇸 美国29 | ⬇️ 8.3MB/s, server: 120.232.153.41, port: 41597, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true}
