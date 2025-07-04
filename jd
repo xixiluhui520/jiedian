@@ -1,4 +1,2 @@
 proxies:
-  - {name: 🇭🇰 香港4 | ⬇️ 5.9MB/s, server: 113.99.140.184, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港5 | ⬇️ 5.4MB/s, server: 125.94.40.221, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港3 | ⬇️ 8.6MB/s, server: dozo01.flztjc.top, port: 8313, type: trojan, password: 2c605663-b89a-5734-a9d6-97d4743d72cf, sni: hk-13-568.flztjc.net, skip-cert-verify: true}
+  - {name: DE-富婆, server: visa.com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: cfxr.eu.org, network: ws, ws-opts: {path: "/?ip=proxyip:port(443)&nat64=6to4", headers: {Host: cfxr.eu.org}}}
