@@ -1,3 +1,23 @@
 proxies:
   - {name: DE-富婆, server: visa.com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: cfxr.eu.org, network: ws, ws-opts: {path: "/?ip=proxyip:port(443)&nat64=6to4", headers: {Host: cfxr.eu.org}}}
   - {name: DE-富婆2, server: ip.skk.moe, port: 8443, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, udp: true, tls: true, tfo: true, skip-cert-verify: false, servername: cfxr.eu.org, network: ws, ws-opts: {path: "/?ip=proxyip:port(443)&nat64=6to4", headers: {Host: cfxr.eu.org}}}
+- {name: "US_1 | ⬇️ 10.7MB/s"
+    obfs: plain
+    obfs-param: 45672222545.microsoft.com
+    password: bxsnucrgk6hfish
+    port: 1054
+    protocol: auth_aes128_sha1
+    protocol-param: '222545:TIvS2C'
+    server: yd-02.paofunlink.com
+    type: ssr
+    udp: true}
+- {name: "US_2 | ⬇️ 8.6MB/s"
+    obfs: plain
+    obfs-param: 45672222545.microsoft.com
+    password: bxsnucrgk6hfish
+    port: 1071
+    protocol: auth_aes128_sha1
+    protocol-param: '222545:TIvS2C'
+    server: yd-05.paofunlink.com
+    type: ssr
+    udp: true}
