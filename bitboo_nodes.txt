@@ -4,12 +4,12 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8753?plugin=obfs-local%3Bo
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8754?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港04
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8755?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港05
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8756?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港06
+ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8757?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8758?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港08
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8759?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港09
-ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8760?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8711?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港11
-ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8712?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港12
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8713?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港13
+ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8714?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港14
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8715?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港15
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8716?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港16
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8717?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#香港17
@@ -33,6 +33,7 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8764?plugin=obfs-local%3Bo
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8765?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本05
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本06
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8767?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本07
+ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8768?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本08
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8769?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8770?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#日本10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8741?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#台湾01
@@ -51,6 +52,8 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8773?plugin=obfs-local%3Bo
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国04
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8775?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国05
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8776?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国06
+ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8777?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国07
+ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8778?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国08
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8779?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8780?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#美国10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@efan9863.dns8656815.com:8637?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202603220039280-uYFxCTAOzd.download.microsoft.com#俄罗斯01
