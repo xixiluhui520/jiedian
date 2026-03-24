@@ -6,7 +6,6 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8755?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8756?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港06
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8757?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8758?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港08
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8759?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8760?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8711?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港11
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8712?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港12
@@ -21,9 +20,9 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8720?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8721?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡01
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8722?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡02
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8723?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡03
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8724?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡04
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8725?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡05
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8726?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡06
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8727?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8728?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡08
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8729?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8730?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡10
@@ -35,6 +34,7 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8765?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本06
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8767?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8768?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本08
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8769?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8770?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8741?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾01
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8742?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾02
