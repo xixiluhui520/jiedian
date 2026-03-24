@@ -15,12 +15,13 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8714?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8715?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港15
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8716?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港16
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8717?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港17
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8718?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港18
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8719?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港19
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8720?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#香港20
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8721?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡01
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8722?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡02
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8723?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡03
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8724?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡04
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8725?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡05
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8726?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡06
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8727?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8728?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#新加坡08
@@ -34,7 +35,6 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8765?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本06
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8767?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8768?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本08
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8769?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本09
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8770?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#日本10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8741?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾01
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8742?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾02
@@ -45,6 +45,7 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8746?plugin=obfs-local%3Bobfs
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8747?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾07
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8748?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾08
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8749?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾09
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8750?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#台湾10
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8771?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#美国01
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8772?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#美国02
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8773?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503131222137-I1Qlb2V1Rh.download.microsoft.com#美国03
